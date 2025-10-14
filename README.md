@@ -14,8 +14,8 @@ Here are some of the projects I've built:
 *   **[Interactive Image Slider](https://your-username.github.io/js-slider)** - A custom-built image slider with JavaScript.
 
 ### 📫 How to Reach Me
-*   **Email:** your.email@domain.com
-*   **Telegram:** @your_telegram_username
+*   **Email:** blabdellah99@gmail.com
+*   **Telegram:** @abdoubl_99
 *   **Kwork:** [Link to your Kwork profile](https://kwork.ru/user/your_username)
 
 ### 📈 My GitHub Stats
