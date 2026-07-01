@@ -1,22 +1,89 @@
-### 👋 Hello, I'm Abdou
+# Hi, I'm Abdou 👋
 
-I'm a passionate front-end developer and a third-year student from Russia, specializing in building clean and responsive websites.
+🎓 Fourth-year Applied Mathematics & Computer Science student.
 
-### 🛠️ My Skills & Technologies
-*   **Languages:** HTML, CSS, JavaScript, C#, Python
-*   **Tools & Practices:** Git, GitHub, Responsive Web Design, Cross-Browser Compatibility
+I'm passionate about building software that combines mathematics, data, and modern web technologies. My interests include Full-Stack Development, Data Analysis, Machine Learning, Networking, and IoT.
 
-### 💼 My Portfolio Projects
-Here are some of the projects I've built:
+Currently working with JavaScript, TypeScript, React, Node.js, MySQL, ESP32, and Python while continuously expanding my knowledge in cybersecurity, networking, and data science.
 
-*   **[Responsive Coffee Shop Website](https://your-username.github.io/coffee-shop)** - A modern, responsive landing page for a fictional cafe. (HTML, CSS, Flexbox)
-*   **[VKontakte Interface Clone](https://your-username.github.io/vk-clone)** - A pixel-perfect clone of the VKontakte UI. (HTML, CSS Grid)
-*   **[Interactive Image Slider](https://your-username.github.io/js-slider)** - A custom-built image slider with JavaScript.
+---
 
-### 📫 How to Reach Me
-*   **Email:** blabdellah99@gmail.com
-*   **Telegram:** @abdoubl_99
-*   **Kwork:** [Link to your Kwork profile](https://kwork.ru/user/your_username)
+## Technologies
 
-### 📈 My GitHub Stats
-[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)](https://github.com/your-username)
+### Languages
+
+- JavaScript
+- TypeScript
+- Python
+- C#
+- C++
+- Java
+- SQL
+- Octave
+
+### Frontend
+
+- React
+- Redux Toolkit
+- HTML5
+- CSS3
+
+### Backend
+
+- Node.js
+- Express.js
+- REST APIs
+
+### Databases
+
+- MySQL
+
+### IoT
+
+- ESP32
+- Arduino
+- MQTT
+- Mosquitto
+- WebSockets
+
+### Data & Mathematics
+
+- NumPy
+- Pandas
+- Octave
+- Data Analysis
+- Statistics
+
+### Networking & Cybersecurity
+
+- Cisco Networking Academy
+- Routing & Switching
+- IoT Fundamentals
+- Cybersecurity
+
+---
+
+## Languages
+
+-  Arabic (Native)
+-  French (Fluent)
+-  English (Advanced)
+-  Russian (Advanced)
+-  Turkish (Advanced)
+-  German (Learning)
+
+---
+
+## Currently Learning
+
+- Data Science
+- Machine Learning
+- Advanced React
+- Distributed Systems
+- C++
+- JavaScript ES6+
+
+
+
+
+
