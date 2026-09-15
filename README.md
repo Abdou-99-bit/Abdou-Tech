@@ -1,6 +1,7 @@
-# Hi, I'm Abdou 👋
+# Hi, I'm Abdellah BALGHOU 👋
 
-🎓 Fourth-year Applied Mathematics & Computer Science student.
+🎓 Final-year B.Sc. Student in Applied Mathematics & Programming Data Analysis.
+📍 Ufa University of Science and Technology (UUST), Russia.
 
 I'm passionate about building software that combines mathematics, data, and modern web technologies. My interests include Full-Stack Development, Data Analysis, Machine Learning, Networking, and IoT.
 
