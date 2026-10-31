@@ -9,7 +9,7 @@ I build software that bridges the gap between mathematical optimization, data pr
 
 ## 🚀 Featured Portfolios & Repositories
 
-### 🛍️ [Full-Stack Online Store Application](https://github.com) *(Work In Progress ~80%)*
+### 🛍️ [Full-Stack Online Store Application](https://github.com) 
 * An end-to-end web platform consolidating my development foundation. Built using a modular **React/TypeScript** frontend managed via **Redux Toolkit**, sitting on a **Node.js/Express** API server driven by a relational **MySQL** schema.
 
 ### 🌿 [Automated Smart Greenhouse & IoT Project](https://github.com)
