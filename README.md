@@ -43,12 +43,10 @@ I build software that bridges the gap between mathematical optimization, data pr
 ---
 
 ## 🌐 Languages Spoken
-* 🇸🇦 **Arabic** – Native
 * 🇫🇷 **French** – Fluent
 * 🇬🇧 **English** – Advanced
 * 🇷🇺 **Russian** – Advanced
 * 🇹🇷 **Turkish** – Advanced
-* 🇩🇪 **German** – Currently Learning
 
 ---
 
