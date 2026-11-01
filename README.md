@@ -1,58 +1,74 @@
 # Hi, I'm Abdellah BALGHOU 👋 (@Abdou-99-bit)
 
-🎓 **Final-year B.Sc. Student in Applied Mathematics & Programming Data Analysis**  
-📍 Ufa University of Science and Technology (UUST), Russia.
+**Final-year B.Sc. Student in Applied Mathematics & Programming Data Analysis**  
+🏛️ *Ufa University of Science and Technology (UUST), Russia*  
 
-I build software that bridges the gap between mathematical optimization, data processing, and modern web technologies. My technical interests span Full-Stack Development, Data Analysis, Networking, and IoT.
+I build software that bridges the gap between mathematical optimization, quantitative data processing, and computer science frameworks. My academic focus allows me to evaluate algorithmic design from a rigorous mathematical perspective, enabling me to build highly efficient and scalable systems.
 
 ---
 
-## 🚀 Featured Portfolios & Repositories
+## 🚀 Central Research & Academic Portfolio
 
-### 🛍️ [Full-Stack Online Store Application](https://github.com) 
-* An end-to-end web platform consolidating my development foundation. Built using a modular **React/TypeScript** frontend managed via **Redux Toolkit**, sitting on a **Node.js/Express** API server driven by a relational **MySQL** schema.
+All of my core engineering modules, numerical calculations, and code scripts are centrally organized in my **[Academic-Portfolio](https://github.com)** repository. Click on any section below to view the source code directly:
 
-### 🌿 [Automated Smart Greenhouse & IoT Project](https://github.com)
-* An automated climate-regulation system built around an **ESP32 microcontroller** tracking environmental telemetry. Includes a built-in directory mapping virtual hardware circuit boards simulated via the **Wokwi** engine using **WebSockets**, **MQTT**, and **Mosquitto**.
+### 📈 Quantitative & Mathematical Modeling
+* **[Linear Programming Modelling](https://github.com/tree/main/Linear%20Programming%20Modelling):** Matrix optimization, Simplex methodology, and mathematical constraint tracking.
+* **[Math Analysis Coursework](https://github.com/tree/main/Math%20Analysis%20Coursework):** Advanced continuous calculus evaluations and computational system graphs.
+* **[Probability Theory and Statistics](https://github.com/tree/main/Probability%20theory%20and%20Statistics):** Statistical data modeling, stochastic process calculations, and empirical analysis.
+* **[Algorithmic Computation & Matrix Evaluations](https://github.com/tree/main/Algorithmic%20computation%20%26%20numerical%20matrix%20evaluations):** Numerical processing workflows engineered in **GNU Octave** and matrix calculators built in **Java**.
 
-### 🎓 [Academic Engineering & Multi-Task Portfolio](https://github.com)
-* A centralized repository displaying my mathematical modeling and standalone programming assignments:
-  * **Linear Programming & Math Analysis:** Optimization models designed to solve resource-allocation and constraints challenges.
-  * **Automation Bots:** Functional Telegram e-commerce store bot scripts engineered in JavaScript.
-  * **Core Applications:** A multi-operator Java desktop app and quantitative computational scripts written in **GNU Octave**.
+### 💻 Advanced Software & Core Systems
+* **[School21 Algorithms](https://github.com/tree/main/School21):** Rigorous software benchmarks focusing on data structures and raw algorithmic efficiency.
+* **[FullStack Project Engine](https://github.com/tree/main/FullStack%20Project):** End-to-end e-commerce infrastructure built with **React, TypeScript, Redux Toolkit, Node.js, Express, and MySQL**.
+* **[Telegram E-Commerce Store Bots](https://github.com/tree/main/Telegram%20Store%20Bots):** Asynchronous automated automation scripts handling multi-user query routing via Node.js.
+* **[Mysql Database Architectures](https://github.com/tree/main/Mysql%20Database):** Relational schema structures, complex query profiling, and entity optimization scripts.
+
+### 🌐 Networking, Embedded Systems & IoT
+* **[Smart Greenhouse-ESP32 Integration](https://github.com/tree/main/Smart%20Greenhouse-esp32):** Real-time firmware telemetry parsing using an **ESP32, WebSockets, MQTT, and Mosquitto brokers**.
+* **[Cisco Networking Academy Systems](https://github.com/tree/main/Cisco%20Networking%20Academy):** Enterprise routing and switching topologies, secure data links, and threat prevention matrices.
 
 ---
 
 ## 🛠️ Technical Skillset
 
-### Languages & Data Science
-* **Core Development:** JavaScript, TypeScript, Python, C#, C++, Java, SQL, Octave
-* **Data & Mathematics:** NumPy, Pandas, Data Analysis, Statistics, Linear Programming Modeling
-
-### Web & IoT Frameworks
-* **Frontend:** React, Redux Toolkit, HTML5, CSS3
-* **Backend:** Node.js, Express.js, REST APIs, WebSockets
-* **Databases:** MySQL
-* **IoT Protocols:** ESP32, Arduino, MQTT, Mosquitto
-
-### Networking & Cybersecurity (Cisco Academy)
-* Junior Cybersecurity Analyst Career Path Certification
-* Python Essentials (Levels 1 & 2) | JavaScript Essentials (Levels 1 & 2)
-* Cyber Threat Management | Introduction to Cybersecurity | Routing & Switching | IoT Fundamentals
+* **Languages:** Python, R, SQL, Java, JavaScript, TypeScript, C#, C++, GNU Octave
+* **Mathematics & Analytics:** Linear Programming, Statistical Inferences, Stochastic Modeling, Data Structures
+* **Frameworks & Engines:** React, Redux Toolkit, Node.js, Express.js, REST APIs, WebSockets
+* **IoT Protocols & Hardware:** ESP32, Arduino, MQTT, Mosquitto Protocols
+* **Certifications:** Cisco Certified Junior Cybersecurity Analyst, Routing & Switching Professional Foundations
 
 ---
 
 ## 🌐 Languages Spoken
 * 🇫🇷 **French** – Fluent
-* 🇬🇧 **English** – Advanced
-* 🇷🇺 **Russian** – Advanced
+* 🇬🇧 **English** – Advanced / Professional Academic Working Proficiency
+* 🇷🇺 **Russian** – Advanced / Professional Academic Working Proficiency
 * 🇹🇷 **Turkish** – Advanced
 
 ---
 
 ## 📚 Currently Expanding Knowledge In
-* Data Science & Machine Learning Algorithms
-* Advanced Architecture in React & Distributed Systems
+* High-Performance Distributed Computing Paradigms
+* Advanced Machine Learning Algorithms & Neural Network Mathematical Frameworks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
